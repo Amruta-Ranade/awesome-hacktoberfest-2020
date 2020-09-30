@@ -19,6 +19,7 @@
 ## Repositories Coding for Beginners
 
 - [Appwrite](https://github.com/appwrite/appwrite)
+- [CockroachDB To-Do Apps](https://github.com/cockroachdb/cockroachdb-todo-apps) 
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System)
@@ -40,6 +41,7 @@
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
 - [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
+- [An Absolute Beginner's Guide to Hacktoberfest](https://dev.to/cockroachlabs/an-absolute-beginner-s-checklist-for-hacktoberfest-p2k)
 
 ## CLI Tools
 
